@@ -26,7 +26,7 @@ int main()
 	{
 		if(flag == 1)
 		{
-			printf("\nEnter for more...");
+			printf("\nEnter for more....");
 			getch();
 			system("cls");
 		}
